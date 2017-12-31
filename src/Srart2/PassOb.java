@@ -20,5 +20,7 @@ public class PassOb {
         System.out.println("ob1 == ob2: " + ob1.equls(ob2));
         System.out.println("ob1 == ob3: " + ob1.equls(ob3));
 
+        
+
     }
 }
